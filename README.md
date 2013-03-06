@@ -1,22 +1,20 @@
 #Reverse Ninja
-Video Game made during the [GameJam AEEI UQAC](http://jam.aeei.ca/).
+Video Game made during the [GameJam AEEI UQAC](http://jam.aeei.ca/). You can visit the [homepage of the game](http://ninja.gableroux.com)!
 
+##How to get the game
 
-##How to play
-You can download the stable versions from ```bin``` folder
-
- * Version Windows: ```bin/Reverse Ninja - Windows - 1.0.rar```
- * Version Mac: ```bin/Reverse Ninja - Windows - 1.0.rar```
- * Version Web: ```bin/Reverse Ninja - Web - 1.0.html```
-
+ * [Live version on ninja.gableroux.com](http://ninja.gableroux.com)
+ * [Windows Version](http://ninja.gableroux.com/release/reverse-ninja-win-latest.zip)
+ * [Mac Version](http://ninja.gableroux.com/release/reverse-ninja-mac-latest.zip)
+ 
 
 ##Sources
 
-###Images
+###Pictures
 
  * [spraypaintstencils - Bamboo images](http://www.spraypaintstencils.com/07-january-stencils.htm)
 
-###Chansons
+###Songs
 
  * [psilodump - Ok, So the Ninjas Went to Space... - 8bitpeoples](http://www.8bitpeoples.com/discography/by/psilodump)
  * [Uncle Benja - AZN](http://www.newgrounds.com/audio/listen/474446)
@@ -57,7 +55,7 @@ It takes time to be a true ninja
  * Bloo Buzz for the topic, so awesome :)
  * Marc-Olivier for that crazy rpg system.
  
-##Auteurs
+##Authors
  
  * Gabriel Le Breton
  * Jules Minier
