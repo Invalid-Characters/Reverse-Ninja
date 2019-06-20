@@ -40,7 +40,7 @@ Reaction, skills
 It takes time to be a true ninja
 "それは本当の忍者にするには時間がかかります"
 
-##Fonts
+## Fonts
 
 * [Arvo](http://www.google.com/webfonts/specimen/Arvo)
 * [DroidSans](http://www.google.com/webfonts/specimen/Droid+Sans)
