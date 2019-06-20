@@ -1,25 +1,26 @@
-#Reverse Ninja
+# Reverse Ninja
+
 Video Game made during the [GameJam AEEI UQAC](http://jam.aeei.ca/). You can visit the [homepage of the game](http://ninja.gableroux.com)!
 
-##How to get the game
+## How to get the game
 
  * [Live version on ninja.gableroux.com](http://ninja.gableroux.com)
  * [Windows Version](http://ninja.gableroux.com/release/reverse-ninja-win-latest.zip)
  * [Mac Version](http://ninja.gableroux.com/release/reverse-ninja-mac-latest.zip)
  
 
-##Sources
+## Sources
 
-###Pictures
+### Pictures
 
  * [spraypaintstencils - Bamboo images](http://www.spraypaintstencils.com/07-january-stencils.htm)
 
-###Songs
+### Songs
 
  * [psilodump - Ok, So the Ninjas Went to Space... - 8bitpeoples](http://www.8bitpeoples.com/discography/by/psilodump)
  * [Uncle Benja - AZN](http://www.newgrounds.com/audio/listen/474446)
 
-###Quotes (Google translate)
+### Quotes (Google translate)
 
 Technique is the key
 "技術が鍵となります"
@@ -45,9 +46,9 @@ It takes time to be a true ninja
 * [DroidSans](http://www.google.com/webfonts/specimen/Droid+Sans)
 
 
-##Credits
+## Credits
 
-###Special thanks
+### Special thanks
 
  * 8bitpeoples for the excellent free music we lisntened to during the game jam :)
  * Dominic for providing a place for coding
@@ -55,7 +56,7 @@ It takes time to be a true ninja
  * Bloo Buzz for the topic, so awesome :)
  * Marc-Olivier for that crazy rpg system.
  
-##Authors
+## Authors
  
  * Gabriel Le Breton
  * Jules Minier
