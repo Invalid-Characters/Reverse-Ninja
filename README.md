@@ -2,6 +2,8 @@
 
 Video Game made during the [GameJam AEEI UQAC](http://jam.aeei.ca/).
 
+![game-icon](Bin/assets/img/icon.png)
+
 ## How to get the game
 
 Build it and play it (it used to be published somewhere with webgl back in the days)
