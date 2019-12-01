@@ -1,13 +1,10 @@
 # Reverse Ninja
 
-Video Game made during the [GameJam AEEI UQAC](http://jam.aeei.ca/). You can visit the [homepage of the game](http://ninja.gableroux.com)!
+Video Game made during the [GameJam AEEI UQAC](http://jam.aeei.ca/).
 
 ## How to get the game
 
- * [Live version on ninja.gableroux.com](http://ninja.gableroux.com)
- * [Windows Version](http://ninja.gableroux.com/release/reverse-ninja-win-latest.zip)
- * [Mac Version](http://ninja.gableroux.com/release/reverse-ninja-mac-latest.zip)
- 
+Build it and play it (it used to be published somewhere on webgl back in the days)
 
 ## Sources
 
