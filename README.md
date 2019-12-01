@@ -4,7 +4,7 @@ Video Game made during the [GameJam AEEI UQAC](http://jam.aeei.ca/).
 
 ## How to get the game
 
-Build it and play it (it used to be published somewhere on webgl back in the days)
+Build it and play it (it used to be published somewhere with webgl back in the days)
 
 ## Sources
 
